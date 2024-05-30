@@ -28,8 +28,8 @@ This project is a Doctor Booking Web Application built using the MERN stack (Mon
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/doctor-booking-app.git
-cd doctor-booking-app
+git clone https://github.com/Rupak100/TAKE-CARE.git
+cd TAKE-CARE
 ```
 ## Install Dependencies
 

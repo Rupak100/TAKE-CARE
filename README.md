@@ -40,7 +40,7 @@ npm install
 ```
 ### For Frontend
 ```bash
-cd backend
+cd frontend
 npm install
 ```
 ## Configuration

@@ -40,7 +40,7 @@ npm install
 ```
 ### For Frontend
 ```bash
-cd frontend
+cd client
 npm install
 ```
 ## Configuration
@@ -61,6 +61,6 @@ REACT_APP_API_URL=http://localhost:5000
 
 
 ```bash
-nom run dev
+npm run dev
 ```
 

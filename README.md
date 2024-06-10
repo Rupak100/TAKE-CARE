@@ -35,7 +35,7 @@ cd TAKE-CARE
 
 ### For Backend
 ```bash
-cd backend
+
 npm install
 ```
 ### For Frontend
@@ -61,13 +61,6 @@ REACT_APP_API_URL=http://localhost:5000
 ### Start the Backend
 
 ```bash
-cd backend
-npm run dev
-```
-### Start the Frontend
-
-```bash
-cd frontend
-npm run dev
+nom run dev
 ```
 

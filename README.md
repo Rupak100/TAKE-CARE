@@ -58,7 +58,7 @@ REACT_APP_API_URL=http://localhost:5000
 
 ```
 ## Running the Application
-### Start the Backend
+
 
 ```bash
 nom run dev
